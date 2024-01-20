@@ -27,3 +27,6 @@ dist-ssr
 *.js
 *.mjs
 *.json
+
+# Local Netlify folder
+.netlify
